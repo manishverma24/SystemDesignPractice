@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RateLimiterAssignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RateLimiterAssignment_jar</output-path>
+    <root id="archive" name="RateLimiterAssignment.jar">
+      <element id="module-output" name="SystemDesign" />
+    </root>
+  </artifact>
+</component>
